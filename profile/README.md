@@ -11,10 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_WEBSITE_URL">Website</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_INSTAGRAM_URL">Instagram</a> •
-  <a href="YOUR_FACEBOOK_URL">Facebook</a>
+  <a href="https://skillsvarz.com/">Website</a> •
+  <a href="https://www.linkedin.com/groups/9842486/">LinkedIn</a> •
+  <a href="https://www.instagram.com/skillsvarz">Instagram</a>
 </p>
 
 ---
@@ -75,25 +74,6 @@ Our focus is on building high-quality digital products, creating engaging user e
 
 **Additional platforms:** Shopify, Strapi CMS, Cloudinary, Razorpay, Hostinger VPS, and Google AI Studio.
 
-## Featured Projects
-
-### 01. Gravity Coding LMS
-A learning management platform designed to support online courses, student learning, payments, certificates, and administration.
-
-**Focus:** EdTech, course management, student experience, and scalable web applications.
-
-### 02. Revichar
-A reusable UI component library and frontend development ecosystem focused on consistency, maintainability, and developer productivity.
-
-**Focus:** React, Tailwind CSS, reusable components, pnpm, and Turborepo.
-
-### 03. Skillsvarz Digital Experiences
-Modern websites and digital solutions built for businesses looking to improve their online presence and customer acquisition.
-
-**Focus:** Web development, UI/UX, animations, SEO, and digital growth.
-
-> Replace these project descriptions with links to the corresponding public repositories or live websites when available.
-
 ## Our Development Principles
 
 - **Design first:** Build intuitive interfaces with attention to detail.
@@ -106,15 +86,15 @@ Modern websites and digital solutions built for businesses looking to improve th
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skillsvarz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillsvarz&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=skillsvarz&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## Let's Collaborate
@@ -122,8 +102,8 @@ Modern websites and digital solutions built for businesses looking to improve th
 Have an idea, a business challenge, or a digital product to build? Let's connect and turn it into something meaningful.
 
 - **Location:** Jabalpur, Madhya Pradesh, India
-- **Website:** YOUR_WEBSITE_URL
-- **Email:** YOUR_BUSINESS_EMAIL
+- **Website:** www.skillsvarz.com
+- **Email:** skillsvarz@gmail.com
 - **Instagram:** @skillsvarz
 
 <p align="center">
