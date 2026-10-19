@@ -83,20 +83,6 @@ Our focus is on building high-quality digital products, creating engaging user e
 - **SEO-ready development:** Consider technical SEO and discoverability from the beginning.
 - **Continuous improvement:** Learn, experiment, and deliver better digital experiences.
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skillsvarz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillsvarz&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=skillsvarz&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 ## Let's Collaborate
 
 Have an idea, a business challenge, or a digital product to build? Let's connect and turn it into something meaningful.
